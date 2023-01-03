@@ -22,7 +22,6 @@ git checkout master* или *git checkout хеш-номер_комита* - пе
 
 git branch - отображение ветки
 
-clear - очиститьтекущий лог
 
 git merge - слияние  веток
 
