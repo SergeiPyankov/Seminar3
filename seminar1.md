@@ -20,6 +20,8 @@ git diff* - вывод изменений на текущий момент по 
 
 git checkout master* или *git checkout хеш-номер_комита* - переход между изменениями либо возврат к текущему состоянию
 
+git log --all --oneline --graph
+
 git branch - отображение ветки
 
 git merge - слияние  веток
